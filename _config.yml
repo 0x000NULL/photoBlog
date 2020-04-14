@@ -1,0 +1,24 @@
+# Base configs
+baseurl: "https://photography.ethanaldrich.net"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Photography by Ethan Aldrich"
+subtitle: "Subtitle"
+author: "Ethan Aldrich"
+header:
+ title: "Photography"
+ subtitle: "by Ethan Aldrich"
+footer:
+ name: "Hey there, my name is Ethan"
+ bio: "I am a developer and a tech aficionado. Love making games and websites and now learning photography."
+ github: " "
+social_urls:
+  facebook: ""
+  twitter: ""
+  instagram: ""
+  dribbble: ""
+  linkedin: ""
+  github: ""
