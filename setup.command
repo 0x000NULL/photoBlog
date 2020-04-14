@@ -2,6 +2,7 @@
 
 SCRIPT_PATH=$(dirname "$0")
 
+find photos/RedRock/ -type f -iname '*.jpg' -exec jpegoptim --strip-all -m 25 -v -t {} +
 # Create a duplicate of each photo, and then minify them
 if [[ "$OSTYPE" == "darwin"* && -x "$(command -v sips)" ]]; then
   # sips is available
