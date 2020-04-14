@@ -1,54 +1,89 @@
-# Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
-A jekyll website for photographers
+# Gallery
+A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
 
-## Highlights
-1. Easy setup and you get a site of your own for __free__.
-2. To add new pictures, you need to just upload them. __No code__ changes required.
-3. This I like the most, you get to see EXIF data like __aperture, shutter speed, iso__ etc when you click on any image automagically.
+![demo](http://g.recordit.co/myz4N5iMzg.gif)
 
-## Quick Start
-If you know a tad about tech and love taking pictures then this open-source project may help you setup a website to showcase
-all your creations without effort. And not just that, with this you need not pay a single dime to host your website as
-it's hosted by GitHub for __free__.
+*Gallery is a side project of mine to allow me to create a more curated version of my photography and mockup portfolio. It's intended to have a simple setup process that is accessible by anyone. If you have any feedback for Gallery, [drop me a line](mailto:andzhng@gmail.com?Subject=Hey!) :)*
 
-**Just follow the below steps and your website would be live in no time:**
 
-1. Fork this repo by hitting the `Fork` button at the top right corner.
-2. Enable github pages from the repo settings.
-3. Upload your pictures to `images/fulls` and `images/thumbs` directory. _You can do that on github.com itself or you can clone and push the images to your repo._
-4. Add your own custom domain in `CNAME` file or just remove the file if you don't own a domain and use the default domain that github provides ([yourusername].github.io/photography).
-5. Update `baseurl` field in `_config.yml` file with whatever domain you used in step 4.
-6. And that's it, your website is set. To view, go to [photography.rampatra.com](http://photography.rampatra.com) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/photography](http://yourusername.github.io/photography)
+## Dependencies
+🔥 NONE 🔥
 
-And of course, you don't want my name at the bottom to show up. You can change it in `_config.yml` file as well as few other settings like your google analytics etc.
- 
-## ProTips
-I have made this as an [npm](https://www.npmjs.com) package with [gulp](http://gulpjs.com/) to __automate image resizing
-and thumbnail generation__. So if you're lazy like me then you can just do the following before you push your images to github.
+## Making your own gallery in less than 5 minutes
+- Fork this repository🍴
+- Clone the repository through terminal by running
+`git clone git@github.com:{YOUR_USERNAME}/gallery.git`
+- Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder. 
+**Example**:
+```
+/photos
+  /mockups
+    IMG_0123.jpg
+    IMG_0124.jpg
+  /portrait
+    IMG_1234.jpg
+    IMG_1235.jpg
+```
 
-1. Fork and then clone the project to your computer
-2. Go inside the project `$ cd photography`
-3. Install all dependencies by `$ npm install`
-4. Copy all your pictures (possibly jpg, the largest size available, straight from your camera) and put it inside `images` directory
-5. Run `$ gulp` to resize the images and to generate thumbnails automatically
-6. Push your changes to github.com by `$ git add --all` and `$ git commit -m "a nice commit message"` and then finally `$ git push origin master`
+- Open the folder in finder and **double click** `setup.command`. This will go through all of your albums and create a `config.json` file for you. This file allows the generator to know which photos will be hosted on your website.✨
+- Personalize the contents at the bottom of `_config.yml`.
+- Commit all of your changes and then push all of your changes to Github by running
+```
+$ git checkout -B gh-pages  # This creates a branch that will be hosted at {username}.github.io/gallery
+$ git commit -am "Create my first gallery"  # This saves all of your changes
+$ git push origin gh-pages  # This pushes your gallery to be hosted!
+```
+- Check out your site at {username}.github.io/gallery 🎉✨!
 
-### Contact Form
-You can make the contact form work without the need of any server-side code. Just follow this [article on github](https://github.com/dwyl/html-form-send-email-via-google-script-without-server) which uses a simple google script to send emails or to upload to a google spreadsheet when someone submits the form.
+*Important notes:* To ⏭speed⏭ up the loading time of your gallery, please make sure to compress your images. If you're running this on a macOS system, this is done automatically for you using `sips`!
+If you want Google Analytics, replace `_includes/ga.html` with your own snippet.
 
-## Credits
-Thanks to [AJ](https://twitter.com/ajlkn) for the website template which I enhanced for [jekyll](http://jekyllrb.com/).
 
-## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/photography#backers)]
+## How It Works
+There are two important pieces to gallery:
 
-<a href="https://opencollective.com/photography#backers" target="_blank"><img src="https://opencollective.com/photography/backers.svg?width=890"></a>
+### Album Generation
+`setup.command` goes through all of the folders in your `/photos/` directory. It collects all of the file paths of each photo in each album. It aggregates all of this data into one key file called `config.json`.
 
-<!-- <a href="https://www.buymeacoffee.com/rampatra" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> -->
+### Client-side Generation
+Once you've created your `config.json`, the website can now use that file to figure out which photos to show. It uses JavaScript(ES6🔥!) to layout your photos, grouping all of the photos per album.
 
-## Sponsors
+## Customizing your Gallery
+Gallery supports 3 different kinds of layouts: rows, squares and columns. You can choose which type of layout you want to use by setting the `layout` variable in `script.js` to be either `SQUARES`, `ROWS` or `COLUMNS`.
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/photography#sponsors)]
- 
-<a href="https://opencollective.com/photography#sponsors" target="_blank"><img src="https://opencollective.com/photography/sponsors.svg?width=890"></a>
+Each different layout has both its own and shared set of configuration options.
+
+### Shared
+- `spacing` (Integer): The vertical and horizontal distance that separates each photo from all adjacent photos. *Defaulted to 10*.
+- `shuffle` (Boolean): Toggle to shuffle or not to shuffle the photos. *Default is `false`*.
+
+### Column Configuration
+- `columns` (Integer): The number of columns for the layout. *Default is `3`*.
+
+### Square Configuration
+- `columns` (Integer): The number of columns for the layout. *Default is `3`*.
+- `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
+
+Columns takes priority if both are set.
+
+### Row Configuration
+- `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
+
+### Instagram
+- `instagram` (String): Your Instagram handle. If no string is passed, no footer
+  is rendered.
+
+
+## Fun Facts
+- No Bootstrap is used. AT ALL! 🔥🔥🔥
+- It uses ES6. NEW TECH! 🔥🔥🔥
+- It has no local dependencies. SAY WHAT! 🔥🔥🔥
+
+🔥🔥🔥
+
+---
+
+If you enjoyed using Gallery, I'd love to see what you created with Gallery 🙌
+
+Share your gallery with me on this [thread](https://github.com/andyzg/gallery/issues/1)❤️!

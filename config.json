@@ -1,0 +1,420 @@
+{
+  "RedRock": [
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1360.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1360.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1360.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1362.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1362.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1362.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1363.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1363.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1363.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1366.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1366.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1366.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1369.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1369.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1369.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1371.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1371.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1371.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1383.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1383.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1383.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1384.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1384.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1384.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1391.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1391.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1391.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1392.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1392.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1392.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1396.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1396.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1396.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1399.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1399.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1399.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1401.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1401.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1401.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1411.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1411.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1411.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1412.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1412.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1412.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1413.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1413.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1413.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1416.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1416.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1416.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1418.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1418.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1418.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1419.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1419.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1419.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1423.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1423.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1423.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1424.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1424.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1424.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1428.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1428.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1428.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1429.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1429.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1429.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1430.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1430.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1430.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1437.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1437.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1437.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1439.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1439.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1439.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9880.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9880.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9880.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9885.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9885.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9885.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9889.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9889.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9889.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9893.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9893.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9893.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9901.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9901.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9901.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9903.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9903.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9903.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9905.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9905.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9905.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9911.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9911.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9911.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9919.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9919.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9919.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9924.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9924.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9924.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9925.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9925.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9925.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9928.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9928.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9928.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9935.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9935.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9935.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9940.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9940.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9940.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9942.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9942.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9942.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9944.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9944.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9944.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9945.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9945.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9945.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9946.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9946.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9946.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9947.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9947.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9947.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9959.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9959.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9959.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9979.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9979.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9979.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9985.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9985.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9985.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9986.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9986.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9986.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9987.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9987.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9987.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9988.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9988.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9988.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/RedRock/IMG_9994.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_9994.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_9994.jpg"
+    }
+  ]
+}
