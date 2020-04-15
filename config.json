@@ -49,14 +49,6 @@
       "path": "./photos/RoadSigns/IMG_1430.jpg"
     },
     {
-      "height": 5184,
-      "compressed_path": "./photos/RoadSigns/IMG_1444.min.jpg",
-      "width": 3456,
-      "compressed": false,
-      "placeholder_path": "./photos/RoadSigns/IMG_1444.placeholder.jpg",
-      "path": "./photos/RoadSigns/IMG_1444.jpg"
-    },
-    {
       "height": 3456,
       "compressed_path": "./photos/RoadSigns/IMG_1451.min.jpg",
       "width": 5184,
@@ -265,6 +257,14 @@
       "compressed": false,
       "placeholder_path": "./photos/RedRock/IMG_1439.placeholder.jpg",
       "path": "./photos/RedRock/IMG_1439.jpg"
+    },
+    {
+      "height": 5184,
+      "compressed_path": "./photos/RedRock/IMG_1444.min.jpg",
+      "width": 3456,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1444.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1444.jpg"
     },
     {
       "height": 3456,
