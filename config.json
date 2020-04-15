@@ -58,35 +58,11 @@
     },
     {
       "height": 3456,
-      "compressed_path": "./photos/RoadSigns/IMG_1450.min.jpg",
-      "width": 5184,
-      "compressed": false,
-      "placeholder_path": "./photos/RoadSigns/IMG_1450.placeholder.jpg",
-      "path": "./photos/RoadSigns/IMG_1450.jpg"
-    },
-    {
-      "height": 3456,
       "compressed_path": "./photos/RoadSigns/IMG_1451.min.jpg",
       "width": 5184,
       "compressed": false,
       "placeholder_path": "./photos/RoadSigns/IMG_1451.placeholder.jpg",
       "path": "./photos/RoadSigns/IMG_1451.jpg"
-    },
-    {
-      "height": 3456,
-      "compressed_path": "./photos/RoadSigns/IMG_1457.min.jpg",
-      "width": 5184,
-      "compressed": false,
-      "placeholder_path": "./photos/RoadSigns/IMG_1457.placeholder.jpg",
-      "path": "./photos/RoadSigns/IMG_1457.jpg"
-    },
-    {
-      "height": 3456,
-      "compressed_path": "./photos/RoadSigns/IMG_1459.min.jpg",
-      "width": 5184,
-      "compressed": false,
-      "placeholder_path": "./photos/RoadSigns/IMG_1459.placeholder.jpg",
-      "path": "./photos/RoadSigns/IMG_1459.jpg"
     },
     {
       "height": 3456,
@@ -321,6 +297,22 @@
       "compressed": false,
       "placeholder_path": "./photos/RedRock/IMG_1449.placeholder.jpg",
       "path": "./photos/RedRock/IMG_1449.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1450.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1450.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1450.jpg"
+    },
+    {
+      "height": 3456,
+      "compressed_path": "./photos/RedRock/IMG_1459.min.jpg",
+      "width": 5184,
+      "compressed": false,
+      "placeholder_path": "./photos/RedRock/IMG_1459.placeholder.jpg",
+      "path": "./photos/RedRock/IMG_1459.jpg"
     },
     {
       "height": 2304,
