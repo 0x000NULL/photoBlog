@@ -1,8 +1,6 @@
 # Gallery
 A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations
 
-![demo](http://g.recordit.co/myz4N5iMzg.gif)
-
 
 
 ## Making your own gallery in less than 5 minutes
