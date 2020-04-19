@@ -3,14 +3,14 @@
 #############################
 
 # The title that appears on the tab
-title: Ethan's Gallery
+title: Aidan & Ethan's Gallery
 
 # The title on the web page
-full_name: Ethan Aldrich
+full_name: Aidan & Ethan Aldrich
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: SQUARES
+layout_style: COLUMNS
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.
@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: ethans.ig.account
+instagram: ethans.ig.acct
 
 ######################
 # END OF CONFIG CODE #
@@ -42,7 +42,7 @@ name: Gallery
 description: Photography Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Ethan Aldrich
+author: Aidan & Ethan Aldrich
 
 # Your email if you want it to be linked on the contact page
 author_email: 
