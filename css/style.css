@@ -29,11 +29,21 @@ section img {
   border: 1px solid rgba(0,0,0,.05);
   box-sizing: border-box;
   filter: blur(2px);
+  transition: transform .2s; /* Animation */
 }
 
 section img.img-loaded {
   opacity: 1;
   filter: blur(0px);
+  transition: transform .2s; /* Animation */
+}
+
+section img {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+section img.img-loaded {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
 h3 {
@@ -79,12 +89,4 @@ h3 {
   font-weight: 500;
   letter-spacing: 2px;
   line-height: 18px;
-}
-
-.zoom {
-  transition: transform .2s; /* Animation */
-}
-
-.zoom:hover {
-  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
